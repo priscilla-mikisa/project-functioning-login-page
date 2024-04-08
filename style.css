@@ -1,0 +1,113 @@
+#mainBody{
+    background-color: black;
+    color: aliceblue;
+}
+.container{
+    background-color: aliceblue;
+    color: black;
+    margin: 10rem;
+    padding: 10rem;
+}
+.profilePicture{
+    display:flex;
+    gap: 40rem;
+    margin-left: 5%;
+}
+.picture{
+    margin-bottom: 10%;
+}
+.piano{
+    margin-top: 5%;
+}
+.headings{
+    display: flex;
+    gap: 10%;
+    margin-left:15rem ;
+}
+.blueheading{
+    color: rgb(7, 76, 76);
+    font-size: 4rem;
+}
+.signup-heading{
+    font-size:4rem ;
+}
+.form{
+    display: flex;
+    gap: 10%;
+    margin-left: 5%;
+    background-color: rgb(12, 97, 97);
+    border-radius: 10px;
+    color:aliceblue
+}
+.informationCollector{
+
+}
+.pageicon{
+    margin-top: 50%;
+    margin-left: 15%;
+    border-radius: 20px;
+    width: 30rem;
+
+}
+.enterdata{
+    margin: 5% 0  0 30%;
+}
+.join{
+    margin:2% 0 0 40% ;
+}
+.formheading{
+    margin: 5% 0 0 18%;
+}
+.users{
+    
+}
+#user-firstName{
+    padding:1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    margin-top: 5%;
+}
+#user-secondName{
+    padding:1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    margin-top: 5%;
+    color: aliceblue;
+}
+#user-phone{
+    padding:1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    margin-top: 5%;
+}
+#user-email{
+    padding:1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    margin-top: 5%;
+}
+#selection{
+    padding:1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    margin-top: 5%;
+}
+.button{
+    padding:1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    margin-top: 5%;
+}
+.facebook{
+    width:5rem;
+    border-radius: 7px;
+    margin-bottom: 40%;
+    height: auto;
+}
+.google{
+    width:4rem;
+    border-radius: 10px;
+    margin-bottom: 37%;
+    height: auto;
+    margin-left: 50%;
+}
